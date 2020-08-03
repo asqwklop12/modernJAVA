@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a47203c6-e492-4441-ab11-24639c7967d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Administrator\Desktop\study\modernJAVA\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fZWMWWEa3WA4eUpgOn4BrgQNJl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter02.quiz.step4" />
+      <recent name="chapter02.step4" />
+      <recent name="chapter02.step3" />
+      <recent name="chapter02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\study\modernJAVA\src\main\java\chapter02\quiz2" />
+      <recent name="C:\Users\Administrator\Desktop\study\modernJAVA\src\main\java\chapter02\step5" />
+      <recent name="C:\Users\Administrator\Desktop\study\modernJAVA\src\main\java\chapter02\step" />
+      <recent name="C:\Users\Administrator\Desktop\study\modernJAVA\src\main\java\chapter02\quiz" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a47203c6-e492-4441-ab11-24639c7967d8" name="Default Changelist" comment="" />
+      <created>1596426059007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596426059007</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1596436307361">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1596436307360" />
+    <state x="584" y="132" key="CommitChangelistDialog2" timestamp="1596436753064">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="584" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1596436753064" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1596436500945">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1596436500945" />
+    <state x="829" y="432" key="Github.ShareDialog" timestamp="1596436513027">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="829" y="432" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596436513027" />
+    <state x="646" y="244" key="Github.UntrackedFilesDialog" timestamp="1596436518653">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="646" y="244" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596436518653" />
+    <state x="609" y="235" width="699" height="678" key="search.everywhere.popup" timestamp="1596436508764">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="609" y="235" width="699" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1596436508764" />
+  </component>
+</project>
