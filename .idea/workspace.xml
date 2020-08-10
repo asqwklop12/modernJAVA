@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a47203c6-e492-4441-ab11-24639c7967d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05/infinte/steams/Generate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05/infinte/steams/Iterate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05/make/steams/ArrayEs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05/make/steams/CanNull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05/make/steams/FilEs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05/make/steams/MakeValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05/number/range/Ranges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05/number/stream/Calories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05/practice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05/practice/Trader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05/practice/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05/streams/Quiz4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter05/utilize/Pythagoras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter06/gouping/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,9 +29,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
         <option value="Enum" />
         <option value="Interface" />
-        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -65,17 +54,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GoToKeyword.includeLibraries" value="false" />
+    <property name="GoToNamespace.includeLibraries" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/chapter05/streams" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter06" />
       <recent name="chapter03.lamdba" />
       <recent name="chapter03.step03" />
       <recent name="chapter02.quiz.step4" />
       <recent name="chapter02.step4" />
-      <recent name="chapter02.step3" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\study\modernJAVA\src\main\java\chapter05\streams" />
@@ -85,13 +76,13 @@
       <recent name="C:\Users\Administrator\Desktop\study\modernJAVA\src\main\java\chapter02\quiz2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pythagoras">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter05.practice.Main" />
+  <component name="RunManager" selected="Application.CollectorHarness">
+    <configuration name="CollectorHarness" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter06.collectors.CollectorHarness" />
       <module name="modernJAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter05.practice.*" />
+          <option name="PATTERN" value="chapter06.collectors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pythagoras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter05.utilize.Pythagoras" />
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter06.partition.Functions" />
       <module name="modernJAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter05.utilize.*" />
+          <option name="PATTERN" value="chapter06.partition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter05.streams.Quiz2" />
+    <configuration name="Group (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter06.many_level.Group" />
       <module name="modernJAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter05.streams.*" />
+          <option name="PATTERN" value="chapter06.many_level.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakeWhiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter05.streams.TakeWhiles" />
+    <configuration name="Numbering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter06.groupingby.Numbering" />
       <module name="modernJAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter05.streams.*" />
+          <option name="PATTERN" value="chapter06.groupingby.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter05.streams.UniqueElement" />
+    <configuration name="SubGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter06.many_level.SubGroup" />
       <module name="modernJAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter05.streams.*" />
+          <option name="PATTERN" value="chapter06.many_level.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pythagoras" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Quiz2" />
-        <item itemvalue="Application.TakeWhiles" />
-        <item itemvalue="Application.UniqueElement" />
+        <item itemvalue="Application.CollectorHarness" />
+        <item itemvalue="Application.Numbering" />
+        <item itemvalue="Application.Functions" />
+        <item itemvalue="Application.SubGroup" />
+        <item itemvalue="Application.Group (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +184,7 @@
         </serviceView>
       </list>
     </option>
+    <option name="showServicesTree" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -233,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596795686202</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5장-2: 스트림 활용">
+      <created>1596819305849</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596819305849</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -245,28 +244,33 @@
     <MESSAGE value="3장 : 람다 표현식( inventory 미 구현)" />
     <MESSAGE value="4장 : 스트림 소개" />
     <MESSAGE value="5장-1: 스트림 활용" />
-    <option name="LAST_COMMIT_MESSAGE" value="5장-1: 스트림 활용" />
+    <MESSAGE value="5장-2: 스트림 활용" />
+    <option name="LAST_COMMIT_MESSAGE" value="5장-2: 스트림 활용" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="197" key="#Auto_Import" timestamp="1596786879952">
+    <state x="552" y="197" key="#Auto_Import" timestamp="1597042213340">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="197" key="#Auto_Import/0.0.1920.1080@0.0.1920.1080" timestamp="1596786879952" />
-    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1596819043010">
+    <state x="552" y="197" key="#Auto_Import/0.0.1920.1080@0.0.1920.1080" timestamp="1597042213340" />
+    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1597054158949">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1596819043010" />
+    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1597054158949" />
     <state x="751" y="397" width="417" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596614854845">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="751" y="397" width="417" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1596614854845" />
-    <state x="584" y="132" key="CommitChangelistDialog2" timestamp="1596795682709">
+    <state x="690" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597044233363">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="584" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1596795682709" />
+    <state x="690" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597044233363" />
+    <state x="584" y="132" key="CommitChangelistDialog2" timestamp="1596819301590">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="584" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1596819301590" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1596608412111">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -279,37 +283,41 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="646" y="244" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596436518653" />
-    <state width="1876" height="290" key="GridCell.Tab.0.bottom" timestamp="1596817123354">
+    <state width="930" height="284" key="GridCell.Tab.0.bottom" timestamp="1597055335494">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596817123354" />
-    <state width="1876" height="290" key="GridCell.Tab.0.center" timestamp="1596817123354">
+    <state width="930" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597055335494" />
+    <state width="930" height="284" key="GridCell.Tab.0.center" timestamp="1597055335494">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="290" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596817123354" />
-    <state width="1876" height="290" key="GridCell.Tab.0.left" timestamp="1596817123354">
+    <state width="930" height="284" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597055335494" />
+    <state width="930" height="284" key="GridCell.Tab.0.left" timestamp="1597055335492">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="290" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596817123354" />
-    <state width="1876" height="290" key="GridCell.Tab.0.right" timestamp="1596817123354">
+    <state width="930" height="284" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597055335492" />
+    <state width="930" height="284" key="GridCell.Tab.0.right" timestamp="1597055335494">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1876" height="290" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596817123354" />
+    <state width="930" height="284" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597055335494" />
     <state x="461" y="171" key="SettingsEditor" timestamp="1596692660515">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="171" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1596692660515" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1596795694895">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1596819320284">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1596795694895" />
-    <state x="653" y="271" width="613" height="538" key="find.popup" timestamp="1596615106778">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1596819320284" />
+    <state x="609" y="154" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597049799816">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="653" y="271" width="613" height="538" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1596615106778" />
-    <state x="609" y="235" width="699" height="678" key="search.everywhere.popup" timestamp="1596792133716">
+    <state x="609" y="154" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1597049799816" />
+    <state x="653" y="271" width="745" height="608" key="find.popup" timestamp="1597046520023">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="609" y="235" width="699" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1596792133716" />
+    <state x="653" y="271" width="745" height="608" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597046520023" />
+    <state x="609" y="235" width="699" height="678" key="search.everywhere.popup" timestamp="1597046488436">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="609" y="235" width="699" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597046488436" />
   </component>
 </project>
