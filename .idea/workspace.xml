@@ -2,13 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a47203c6-e492-4441-ab11-24639c7967d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jmh/java/chpater07/ParallelStreamBenChmark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/CaloricLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/Refactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/StreamE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/debugging/Debugging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/debugging/Debugging2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/chain/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/chain/HeaderTextProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/chain/LambdaClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/chain/ProcessingObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/chain/SpellCheckerProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/factory/Bond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/factory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/factory/LambdaClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/factory/LambdaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/factory/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/factory/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/factory/ProductFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/factory/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/factory/TriFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/observer/Feed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/observer/Guardian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/observer/LeMonde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/observer/NYTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/observer/ObserverLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/strategy/IsAllLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/strategy/IsNumeric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/strategy/Ramada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/strategy/ValidationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/strategy/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/template/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/template/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/template/OnlineBanking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/degin_pattern/template/OnlineBankingRambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/flex/ExeAround.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/flex/LoggerE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/imformation_logging/LoggingE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter09/testing/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/chapter09/testing/PointTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +82,7 @@
         <option value="module-info" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -70,13 +108,21 @@
     <property name="GoToKeyword.includeLibraries" value="false" />
     <property name="GoToNamespace.includeLibraries" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/chapter05/streams" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/chapter09" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="chapter09.testing" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -88,20 +134,24 @@
       <recent name="chapter02.quiz.step4" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\study\modernJAVA\src\main\java\chapter09" />
       <recent name="C:\Users\Administrator\Desktop\study\modernJAVA\src\main\java\chapter05\streams" />
       <recent name="C:\Users\Administrator\Desktop\study\modernJAVA\src\main\java\chapter03\step4" />
       <recent name="C:\Users\Administrator\Desktop\study\modernJAVA\src\main\java\chapter03\step02" />
       <recent name="C:\Users\Administrator\Desktop\study\modernJAVA\src\main\java\chapter03" />
-      <recent name="C:\Users\Administrator\Desktop\study\modernJAVA\src\main\java\chapter02\quiz2" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="chapter09.degin_pattern.factory" />
+      <recent name="chapter09.template" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.S">
-    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter08.map.Arrays" />
+  <component name="RunManager" selected="Application.LoggingE">
+    <configuration name="Debugging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter09.debugging.Debugging" />
       <module name="modernJAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter08.map.*" />
+          <option name="PATTERN" value="chapter09.debugging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatePatten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter08.map.CalculatePatten" />
+    <configuration name="Debugging2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter09.debugging.Debugging2" />
       <module name="modernJAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter08.map.*" />
+          <option name="PATTERN" value="chapter09.debugging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,38 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factory (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter08.collection.map.Factory" />
+    <configuration name="LoggingE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter09.imformation_logging.LoggingE" />
       <module name="modernJAVA.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter08.collection.map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetOrDefault" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter08.map.GetOrDefault" />
-      <module name="modernJAVA.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter08.map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="S" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter08.concurrentHashMap.S" />
-      <module name="modernJAVA.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter08.concurrentHashMap.*" />
+          <option name="PATTERN" value="chapter09.imformation_logging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,13 +206,44 @@
       <setting name="fixLineNumbers" value="false" />
       <method v="2" />
     </configuration>
+    <configuration name="PointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="modernJAVA.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter09.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapter09.testing" />
+      <option name="MAIN_CLASS_NAME" value="chapter09.testing.PointTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointTest.testMoveAllPointRightBy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="modernJAVA.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter09.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapter09.testing" />
+      <option name="MAIN_CLASS_NAME" value="chapter09.testing.PointTest" />
+      <option name="METHOD_NAME" value="testMoveAllPointRightBy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.S" />
-        <item itemvalue="Application.CalculatePatten" />
-        <item itemvalue="Application.GetOrDefault" />
-        <item itemvalue="Application.Arrays" />
-        <item itemvalue="Application.Factory (3)" />
+        <item itemvalue="Application.LoggingE" />
+        <item itemvalue="Application.Debugging2" />
+        <item itemvalue="Application.Debugging" />
+        <item itemvalue="JUnit.PointTest" />
+        <item itemvalue="JUnit.PointTest.testMoveAllPointRightBy" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597055432582</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="8장 - 컬렉션 API 개선">
+      <created>1597303281863</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597303281864</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -272,28 +334,29 @@
     <MESSAGE value="5장-1: 스트림 활용" />
     <MESSAGE value="5장-2: 스트림 활용" />
     <MESSAGE value="6장 - 스트림으로 데이터 수집ㅎ" />
-    <option name="LAST_COMMIT_MESSAGE" value="6장 - 스트림으로 데이터 수집ㅎ" />
+    <MESSAGE value="8장 - 컬렉션 API 개선" />
+    <option name="LAST_COMMIT_MESSAGE" value="8장 - 컬렉션 API 개선" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="197" key="#Auto_Import" timestamp="1597300840058">
+    <state x="552" y="197" key="#Auto_Import" timestamp="1597399097811">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="197" key="#Auto_Import/0.0.1920.1080@0.0.1920.1080" timestamp="1597300840058" />
+    <state x="552" y="197" key="#Auto_Import/0.0.1920.1080@0.0.1920.1080" timestamp="1597399097811" />
     <state x="552" y="197" key="#Project_Structure" timestamp="1597245235783">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="197" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1597245235783" />
-    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1597054158949">
+    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1597401992680">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1597054158949" />
-    <state x="564" y="464" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597297578560">
+    <state x="765" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1597401992680" />
+    <state x="564" y="464" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597398914910">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="564" y="464" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597297578560" />
+    <state x="564" y="464" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597398914910" />
     <state x="751" y="397" width="417" height="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596614854845">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -306,10 +369,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597044233363" />
-    <state x="584" y="132" key="CommitChangelistDialog2" timestamp="1597055427914">
+    <state x="584" y="132" key="CommitChangelistDialog2" timestamp="1597303271493">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="584" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1597055427914" />
+    <state x="584" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1597303271493" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1596608412111">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -322,22 +385,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="646" y="244" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596436518653" />
-    <state width="1143" height="284" key="GridCell.Tab.0.bottom" timestamp="1597303167883">
+    <state width="1142" height="284" key="GridCell.Tab.0.bottom" timestamp="1597403283321">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1143" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597303167883" />
-    <state width="1143" height="284" key="GridCell.Tab.0.center" timestamp="1597303167882">
+    <state width="1142" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597403283321" />
+    <state width="1142" height="284" key="GridCell.Tab.0.center" timestamp="1597403283321">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1143" height="284" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597303167882" />
-    <state width="1143" height="284" key="GridCell.Tab.0.left" timestamp="1597303167882">
+    <state width="1142" height="284" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597403283321" />
+    <state width="1142" height="284" key="GridCell.Tab.0.left" timestamp="1597403283320">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1143" height="284" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597303167882" />
-    <state width="1143" height="284" key="GridCell.Tab.0.right" timestamp="1597303167882">
+    <state width="1142" height="284" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597403283320" />
+    <state width="1142" height="284" key="GridCell.Tab.0.right" timestamp="1597403283321">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1143" height="284" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597303167882" />
+    <state width="1142" height="284" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597403283321" />
     <state x="692" y="249" key="RollbackChangesDialog" timestamp="1597246138950">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -346,10 +409,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="171" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1597300818648" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1597055473598">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1597303297131">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1597055473598" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1597303297131" />
     <state x="609" y="154" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597049799816">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -358,13 +421,17 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="764" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1597301697020" />
+    <state x="731" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597399026562">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="731" y="241" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597399026562" />
     <state x="653" y="271" width="745" height="608" key="find.popup" timestamp="1597046520023">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="653" y="271" width="745" height="608" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597046520023" />
-    <state x="609" y="235" width="699" height="678" key="search.everywhere.popup" timestamp="1597300787533">
+    <state x="609" y="235" width="699" height="678" key="search.everywhere.popup" timestamp="1597403192904">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="609" y="235" width="699" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597300787533" />
+    <state x="609" y="235" width="699" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597403192904" />
   </component>
 </project>
